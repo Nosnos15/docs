@@ -14,7 +14,7 @@ children:
   - /using-conditions-to-control-job-execution
   - /using-a-matrix-for-your-jobs
   - /using-concurrency
-  - /using-environments-for-deployment
+  - /using-environments-for-jobs
   - /running-jobs-in-a-container
   - /setting-default-values-for-jobs
   - /assigning-permissions-to-jobs
